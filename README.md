@@ -49,6 +49,12 @@ To use Calcunite, follow these steps:
    ./2D_Array
    ```
 
+5. Clean up the project directory after execution:
+   ```
+   del *
+   ```
+
+
 ## 📚 Usage
 
 Upon running the executable file, you will be presented with a user-friendly menu that allows you to select the desired tool category. Simply follow the prompts and enter the required inputs to perform operations or generate results.
