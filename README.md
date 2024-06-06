@@ -25,6 +25,34 @@ Quick overview of the supported features.
 - Sort a 2D Array: Sorts the elements of a 2D array in ascending or descending order.
 - Magic Square: Generates and displays a magic square of a specified order.
 
+## 🛠️ Installation
+
+To use Calcunite, follow these steps:
+
+1. Clone the repository:
+   ```
+   git clone https://github.com/madhavagarwal3012/2-Dimension.git
+   ```
+   
+2. Navigate to the project directory:
+   ```
+   cd 2-Dimension/2 Dimension/
+   ```
+
+3. Compile the source code:
+   ```
+   gcc "2D Array.c" -o 2d_array_toolkit
+   ```
+
+4. Run the executable:
+   ```
+   ./2d_array_toolkit
+   ```
+
+## 📚 Usage
+
+Upon running the executable file, you will be presented with a user-friendly menu that allows you to select the desired tool category. Simply follow the prompts and enter the required inputs to perform operations or generate results.
+
 
 ## 📝 Main Menu
 
