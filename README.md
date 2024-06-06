@@ -14,16 +14,17 @@ These platforms are officially tested.
 
 Quick overview of the supported features.
 
-● Reverse a 2D Array: This option allows you to reverse the order of elements in a 2D array.
-● Find Odd and Even Elements: Counts the number of odd and even elements present in a 2D array.
-● Delete Elements: Provides the ability to remove specific elements from a 2D array.
-● Sum of All Elements: Calculates the sum of all elements in a 2D array.
-● Add Two 2D Arrays: Performs element-wise addition of two 2D arrays.
-● Subtract Two 2D Arrays: Performs element-wise subtraction of two 2D arrays.
-● Multiply Two 2D Arrays: Multiplies two 2D arrays according to matrix multiplication rules.
-● Search an Element: Searches for a specific element within a 2D array and displays its position.
-● Sort a 2D Array: Sorts the elements of a 2D array in ascending or descending order.
-● Magic Square: Generates and displays a magic square of a specified order.
+- Reverse a 2D Array: This option allows you to reverse the order of elements in a 2D array.
+- Find Odd and Even Elements: Counts the number of odd and even elements present in a 2D array.
+- Delete Elements: Provides the ability to remove specific elements from a 2D array.
+- Sum of All Elements: Calculates the sum of all elements in a 2D array.
+- Add Two 2D Arrays: Performs element-wise addition of two 2D arrays.
+- Subtract Two 2D Arrays: Performs element-wise subtraction of two 2D arrays.
+- Multiply Two 2D Arrays: Multiplies two 2D arrays according to matrix multiplication rules.
+- Search an Element: Searches for a specific element within a 2D array and displays its position.
+- Sort a 2D Array: Sorts the elements of a 2D array in ascending or descending order.
+- Magic Square: Generates and displays a magic square of a specified order.
+
 
 ## 📝 Main Menu
 
