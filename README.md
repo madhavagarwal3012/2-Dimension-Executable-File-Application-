@@ -74,4 +74,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-Thank you for using Calcunite! I hope this toolkit proves to be a valuable resource for your mathematical, geometrical, health-related, and numerological needs. If you have any feedback or suggestions, please let me know. Happy calculating! 😊
+Thank you for using 2 Dimension I hope this toolkit proves to be a valuable resource for your different 2D matrix operations. If you have any feedback or suggestions, please let me know. Happy Matrix! 😊
