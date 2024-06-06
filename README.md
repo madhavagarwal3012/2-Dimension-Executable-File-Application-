@@ -42,3 +42,24 @@ The main menu displays the available options for the user to choose from:
 | 9             | Sort A 2D Array                                               | ✅         |
 | 10            | See A Magic Square                                            | ✅         |
 
+Select the appropriate options to navigate through the menu and access the desired tool.
+
+## 🤝 Contributing
+
+Contributions to 2 Dimension are welcome! If you have any ideas, suggestions, or bug reports, please open an issue on the [GitHub repository](https://github.com/madhavagarwal3012/2D-Array-Operation-Executable-File-Application-
+/issues). If you'd like to contribute code, you can fork the repository and submit a pull request.
+
+If you find 2 Dimension useful, consider star this repository (●'◡'●)
+
+## 🍀 Sponsor This Project
+
+You can sponsor this project via these ways.
+
++ [Buy me a coffee](https://buymeacoffee.com/madhavagarwal3012)
+
+Your sponsorship will help me develop Calcunite continuously.
+
+## 🔗 Project Link
+
+You can find the executable file application of 2 Dimension on GitHub:
+[2D-Array-Operation-Executable-File-Application-](https://github.com/madhavagarwal3012/2D-Array-Operation-Executable-File-Application-)
