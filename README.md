@@ -63,3 +63,15 @@ Your sponsorship will help me develop Calcunite continuously.
 
 You can find the executable file application of 2 Dimension on GitHub:
 [2D-Array-Operation-Executable-File-Application-](https://github.com/madhavagarwal3012/2D-Array-Operation-Executable-File-Application-/tree/main/Application)
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=madhavagarwal3012/2D-Array-Operation-Executable-File-Application-&type=Date)](https://star-history.com/#madhavagarwal3012/2D-Array-Operation-Executable-File-Application-&Date)
+
+## 📖 License
+
+This project is licensed under the [MIT License](LICENSE).
+
+---
+
+Thank you for using Calcunite! I hope this toolkit proves to be a valuable resource for your mathematical, geometrical, health-related, and numerological needs. If you have any feedback or suggestions, please let me know. Happy calculating! 😊
