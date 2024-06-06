@@ -47,7 +47,7 @@ Select the appropriate options to navigate through the menu and access the desir
 
 ## 🤝 Contributing
 
-Contributions to 2 Dimension are welcome! If you have any ideas, suggestions, or bug reports, please open an issue on the [GitHub repository](https://github.com/madhavagarwal3012/2D-Array-Operation-Executable-File-Application-/issues). If you'd like to contribute code, you can fork the repository and submit a pull request.
+Contributions to 2 Dimension are welcome! If you have any ideas, suggestions, or bug reports, please open an issue on the [GitHub repository](https://github.com/madhavagarwal3012/2D-Array-Operation-Executable-File-Application-/issues).If you'd like to contribute code, you can fork the repository and submit a pull request.
 
 If you find 2 Dimension useful, consider star this repository (●'◡'●)
 
