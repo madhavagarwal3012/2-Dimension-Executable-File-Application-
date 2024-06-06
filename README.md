@@ -31,22 +31,22 @@ To use Calcunite, follow these steps:
 
 1. Clone the repository:
    ```
-   git clone https://github.com/madhavagarwal3012/2-Dimension.git
+   git clone https://github.com/your-username/2-Dimension.git
    ```
    
 2. Navigate to the project directory:
    ```
-   cd 2-Dimension/2 Dimension/
+   cd "2 Dimension/2 Dimension"
    ```
 
 3. Compile the source code:
    ```
-   gcc "2D Array.c" -o 2d_array_toolkit
+   gcc -o 2D_Array "2D Array.c"
    ```
 
 4. Run the executable:
    ```
-   ./2d_array_toolkit
+   ./2D_Array
    ```
 
 ## 📚 Usage
