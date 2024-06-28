@@ -102,7 +102,7 @@ You can find the executable file application of 2 Dimension on GitHub:
 Do check out my other project:
 [Calcunite](https://github.com/madhavagarwal3012/Calcunite-Executable-File-Application)
 
-## Star History
+## ⭐ Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=madhavagarwal3012/2D-Array-Operation-Executable-File-Application-&type=Date)](https://star-history.com/#madhavagarwal3012/2D-Array-Operation-Executable-File-Application-&Date)
 
