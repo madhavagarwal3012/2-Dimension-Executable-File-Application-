@@ -110,11 +110,6 @@ Do check out my other project:
 
 This project is licensed under the [MIT License](LICENSE).
 
-## 🔗 Other Projects
-
-Check out my other project:
-
-
 ---
 
 Thank you for using 2 Dimension I hope this toolkit proves to be a valuable resource for your different 2D matrix operations. If you have any feedback or suggestions, please let me know. Happy Matrix! 😊
