@@ -102,7 +102,7 @@ Your sponsorship will help me develop Calcunite continuously.
 - To Download The Executable File Directly:
 [Click Here](https://github.com/madhavagarwal3012/2-Dimension-Executable-File-Application-/raw/main/Application/2D%20Array.exe)
 
-Do check out my other project:
+- Do check out my other project:
 [Calcunite](https://github.com/madhavagarwal3012/Calcunite-Executable-File-Application)
 
 ## ⭐ Star History
