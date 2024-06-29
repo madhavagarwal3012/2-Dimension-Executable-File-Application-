@@ -96,8 +96,11 @@ Your sponsorship will help me develop Calcunite continuously.
 
 ## 🔗 Project Link
 
-You can find the executable file application of 2 Dimension on GitHub:
+- You can find the executable file application of 2 Dimension on GitHub:
 [2-Dimension-Executable-File-Application-](https://github.com/madhavagarwal3012/2-Dimension-Executable-File-Application-/tree/main/Application)
+
+- To Download The Executable File Directly:
+[Click Here](https://github.com/madhavagarwal3012/2-Dimension-Executable-File-Application-/raw/main/Application/2D%20Array.exe)
 
 Do check out my other project:
 [Calcunite](https://github.com/madhavagarwal3012/Calcunite-Executable-File-Application)
